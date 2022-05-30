@@ -4,3 +4,4 @@ Associação básica entre funcionários de um estabelecimento, utilizando a lin
 
 # Diagrama de classes
 
+![](https://github.com/pedronb/Gerenciamento-Colaboradores/blob/master/images/DiagramaClasses.png)
